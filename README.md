@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es José
+#### Soy un Data Analyst Jr
+![Soy un Data Analyst Jr](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**DataJose1/DataJose1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Habilidades: SQL / EXCEL / POWER BI / PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en proyectos que iré dejando en los siguientes repositorios 
+- 🌱 Estoy aprendiendo Análisis de Datos en R 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DataJose1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josevidaurre-dataanalyst//)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DataJose1)  
+
