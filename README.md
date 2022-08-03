@@ -1,8 +1,7 @@
 ### Hola 👋, Mi nombre es José
 #### Soy un Data Analyst Jr
-![Soy un Data Analyst Jr]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Estoy dando mis primeros pasos en el mundo del análisis de datos. Provengo del área de los negocios, hago la carrera de administración de empresas, lo cuál es un buen complemento para mi perfil orientado a la inteligencia de negocios.
 
 Habilidades: SQL / EXCEL / POWER BI / PYTHON
 
@@ -11,6 +10,4 @@ Habilidades: SQL / EXCEL / POWER BI / PYTHON
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DataJose1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josevidaurre-dataanalyst//)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DataJose1)  
 
