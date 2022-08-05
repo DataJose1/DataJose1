@@ -1,7 +1,7 @@
-### Hola 👋, Mi nombre es José
+### Hola 👋, Mi nombre es José Vidaurre
 #### Soy un Data Analyst Jr
 
-Estoy dando mis primeros pasos en el mundo del análisis de datos. Provengo del área de los negocios, hago la carrera de administración de empresas, lo cuál es un buen complemento para mi perfil orientado a la inteligencia de negocios.
+Estoy dando mis primeros pasos en el mundo del análisis de datos. Provengo del área de los negocios, hago la carrera de administración de empresas, lo cuál considero que es un buen complemento para mi perfil orientado a la inteligencia de negocios.
 
 Habilidades: SQL / EXCEL / POWER BI / PYTHON
 
