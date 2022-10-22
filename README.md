@@ -10,7 +10,3 @@ Herramientas: SQL SERVER / MYSQL / EXCEL / POWER BI / PYTHON
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josevidaurre-dataanalyst//)  
-
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>
-[<img src='https://www.flaticon.com/free-icons/linkedin' alt='linkedin' height='40'>] (https://www.linkedin.com/in/https://www.linkedin.com/in/josevidaurre-dataanalyst//)  
