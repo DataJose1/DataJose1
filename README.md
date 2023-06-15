@@ -1,7 +1,7 @@
 ## Hola 👋, Mi nombre es José Vidaurre
 ### Soy un Data Analyst Trainee
 
-Estoy dando mis primeros pasos en el mundo del análisis de datos. Hago la carrera de administración de empresas, lo cuál me permite darle a mi perfil un enfoque orientado a los negocios.
+Estoy dando mis primeros pasos en el mundo del análisis de datos y me encuentro cursando la carrera de administración de empresas. Mi perfil esta orientado a entender el negocio y brindar soluciones con las herramientas de análisis aprendidas.
 
 Herramientas: SQL SERVER / MYSQL / EXCEL / POWER BI / PYTHON
 
