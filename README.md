@@ -1,5 +1,5 @@
 ## Hola 👋, Mi nombre es José Vidaurre
-### Soy un Data Analyst Trainee
+### Soy un Data Analyst | BI Trainee
 
 Estoy dando mis primeros pasos en el mundo del análisis de datos y me encuentro cursando la carrera de administración de empresas. Mi perfil esta orientado a entender el negocio y brindar soluciones con las herramientas de análisis aprendidas.
 
