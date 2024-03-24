@@ -32,3 +32,5 @@ I am taking my first steps in the world of data analysis and I am pursuing a deg
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+
+<img src="https://komarev.com/ghpvc/?username=DataJose1&style=flat-square&color=blue" alt=""/>
