@@ -1,6 +1,8 @@
 ## Hola 👋, Mi nombre es José Vidaurre
 ### Soy un Data Analyst | BI Trainee
 
+![Header](./github-header-image.png)
+
 Estoy dando mis primeros pasos en el mundo del análisis de datos y me encuentro cursando la carrera de administración de empresas. Mi perfil esta orientado a entender el negocio y brindar soluciones con las herramientas de análisis aprendidas.
 
 Herramientas: SQL SERVER / MYSQL / EXCEL / POWER BI / PYTHON
