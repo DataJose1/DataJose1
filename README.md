@@ -1,14 +1,32 @@
-## Hola 👋, Mi nombre es José Vidaurre
-### Soy un Data Analyst | BI Trainee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is José Vidaurre
+=====================================================================================================================================
 
-![Header](./github-header-image.png)
+Data Analyst | Business Intelligence
+------------------------------------
 
-Estoy dando mis primeros pasos en el mundo del análisis de datos y me encuentro cursando la carrera de administración de empresas. Mi perfil esta orientado a entender el negocio y brindar soluciones con las herramientas de análisis aprendidas.
+I am taking my first steps in the world of data analysis and I am pursuing a degree in business administration. My profile is aimed at understanding the business and providing solutions with the analysis tools learned.
 
-Herramientas: SQL SERVER / MYSQL / EXCEL / POWER BI / PYTHON
-
-- 🔭 Estoy trabajando en proyectos que iré dejando en los siguientes repositorios 
-- 🌱 Estoy aprendiendo Análisis de Datos en R 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josevidaurre-dataanalyst//)  
+*   🌍  I'm based in Argentina
+*   ✉️  You can contact me at [vidaurrejose1@gmail.com](mailto:vidaurrejose1@gmail.com)
+*   🧠  I'm learning R Studio### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                    </p>
+                    
+### Socials
+                  
+<p align="left">
+                    <a href="https://discord.com/users/jose_001" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                    <a href="https://www.linkedin.com/in/josevidaurre-dataanalyst/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
